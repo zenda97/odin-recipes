@@ -1,5 +1,16 @@
 li {
-    background-color: lightblue;
+    background-color: lightblue;    
+}
+
+.indexmenu {
+    text-align: center;
+    width: 300px;
+    margin: 4px;
+}
+
+ul.ingredients > li {
+    width: 300px;
+    margin: 3px;
 }
 
 #title {
